@@ -1,0 +1,5 @@
+blog_api/__pycache__/
+blog_drf_app/__pycache__/__init__.cpython-310.pyc
+blog_drf_app/__pycache__/
+blog_drf_app/migrations/__pycache__/
+blog_drf_app/views/__pycache__/
